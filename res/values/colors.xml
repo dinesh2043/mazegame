@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="game_bg">#87AFC7</color>
+    <color name="line">#000000</color>
+    <color name="position">#ff0000</color>
+    <color name="Green">#387C44</color>
+    <color name="Blue">#736AFF</color>
+    
+    
+
+</resources>

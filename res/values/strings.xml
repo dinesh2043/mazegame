@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MazeGame</string>
+    <string name="NewGame">New Game</string>
+    <string name="exit">Exit</string>
+    <string name="finished_title">Congrats</string>
+	<string name="finished_text">Level Cleared</string>
+	<string name="finished_button">End Game</string>
+	<string name="levelSelect">levels</string>
+</resources>
